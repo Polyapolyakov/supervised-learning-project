@@ -1,0 +1,8 @@
+numpy==1.22.4
+pandas==1.5.1
+scipy
+matplotlib==3.5
+seaborn
+phik
+shap
+scikit-learn
